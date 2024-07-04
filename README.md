@@ -1,1 +1,1 @@
-# E-Commerce-Website
+Welcome to the My E-Commerce Website Project repository! This project aims to create a comprehensive and user-friendly online shopping platform. The website provides a seamless shopping experience with features such as product browsing, detailed product descriptions, user reviews, and a secure checkout process.
